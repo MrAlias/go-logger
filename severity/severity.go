@@ -18,7 +18,7 @@ const (
 	Error
 )
 
-var levelsString = map[Level]string{
+var levelString = map[Level]string{
 	Debug: "debug",
 	Info:  "info",
 	Error: "error",
@@ -26,7 +26,7 @@ var levelsString = map[Level]string{
 
 // String returns severity level string representation.
 func (l Level) String() string {
-	return levelsString[l]
+	return levelString[l]
 }
 
 // Prefix returns severity level logging prefix.
