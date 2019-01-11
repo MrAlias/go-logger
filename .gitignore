@@ -1,3 +1,6 @@
+## vim
+*.sw[o|p]
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
