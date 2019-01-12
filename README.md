@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/MrAlias/go-logger.svg)](https://travis-ci.com/MrAlias/go-logger)
+[![Build Status](https://api.travis-ci.com/MrAlias/go-logger.svg)](https://travis-ci.com/MrAlias/go-logger)
 
 # go-logger
 
